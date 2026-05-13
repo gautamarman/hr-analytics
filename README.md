@@ -4,6 +4,8 @@
 
 This project is an interactive HR Analytics Dashboard built using Power BI to analyze workforce trends and employee data.
 
+---
+
 ### The dashboard provides insights into
 - Employee demographics
 - Gender distribution
@@ -11,10 +13,14 @@ This project is an interactive HR Analytics Dashboard built using Power BI to an
 - Leave balance
 - Headcount analysis
 
+---
+
 ### Tools Used
 - Power BI
 - DAX
 - Excel
+
+---
 
 ### Key Insights
 - Identified workforce distribution across departments
@@ -22,8 +28,12 @@ This project is an interactive HR Analytics Dashboard built using Power BI to an
 - Visualized employee leave patterns
 - Built KPI-based dashboards for HR reporting
 
+---
+
 ### Dashboard Preview
 ![Dashboard Preview](images/hrdashboard.png)
+
+---
 
 ### Skills Demonstrated
 - Data Visualization
