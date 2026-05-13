@@ -23,7 +23,7 @@ This project is an interactive HR Analytics Dashboard built using Power BI to an
 - Built KPI-based dashboards for HR reporting
 
 ### Dashboard Preview
-! [Dashboard Preview](hr dashboard ss.png)
+![Dashboard Preview](hr dashboard ss.png)
 
 ### Skills Demonstrated
 - Data Visualization
